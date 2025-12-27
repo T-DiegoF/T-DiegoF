@@ -29,7 +29,6 @@ Este perfil de GitHub está orientado principalmente a **proyectos personales y 
 - 🧪 **Pruebas y aprendizaje**  
   Repositorios creados para experimentar con frameworks, librerías o conceptos que estoy aprendiendo.
 
-> Estos proyectos están orientados al aprendizaje y a la mejora continua.
 
 ---
 
