@@ -1,52 +1,52 @@
-# 👋 Hi, I'm Diego
+# 👋 Hola, soy Diego
 
-Backend Developer with experience building REST APIs using **Node.js**, **Nest.js** and **SQL**.  
-I have worked in fintech environments and enjoy designing clean, scalable backend solutions.
+Desarrollador Backend con experiencia en el desarrollo de APIs REST utilizando **Node.js**, **Nest.js** y **SQL**.  
+He trabajado en entornos fintech y me interesa diseñar soluciones backend limpias, escalables y bien estructuradas.
 
-This GitHub profile is mainly used to upload **personal projects and coding challenges**, where I practice backend concepts, experiment with technologies and improve my problem-solving skills.
+Este perfil de GitHub está orientado principalmente a **proyectos personales y challenges**, donde practico conceptos de backend, experimento con tecnologías y fortalezco mis habilidades técnicas.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Stack Tecnológico
 
 - **Backend:** Node.js, Nest.js, Express.js  
-- **Databases:** SQL, MongoDB  
-- **Cloud & DevOps:** AWS, CI/CD  
-- **Languages:** JavaScript, TypeScript  
-- **Tools:** Git, Postman  
-- **Methodologies:** Agile / Scrum
+- **Bases de datos:** SQL, MongoDB  
+- **Cloud y DevOps:** AWS, CI/CD  
+- **Lenguajes:** JavaScript, TypeScript  
+- **Herramientas:** Git, Postman  
+- **Metodologías:** Agile / Scrum
 
 ---
 
-## 📂 What you'll find here
+## 📂 Qué vas a encontrar acá
 
-- 🧩 **Coding challenges**  
-  Small exercises focused on logic, data structures and backend fundamentals.
+- 🧩 **Challenges de programación**  
+  Ejercicios enfocados en lógica, estructuras de datos y fundamentos de backend.
 
-- 🚀 **Personal projects**  
-  Side projects to practice API design, database modeling and backend architectures.
+- 🚀 **Proyectos personales**  
+  Proyectos propios para practicar diseño de APIs, modelado de bases de datos y arquitecturas backend.
 
-- 🧪 **Experiments & learning**  
-  Repositories created to test ideas, frameworks or concepts I’m currently learning.
+- 🧪 **Pruebas y aprendizaje**  
+  Repositorios creados para experimentar con frameworks, librerías o conceptos que estoy aprendiendo.
 
-> These projects are intended for learning and continuous improvement.
-
----
-
-## 🎯 Current Focus
-
-- Improving backend architecture skills
-- Writing cleaner and more maintainable APIs
-- Deepening knowledge in Nest.js and cloud-based solutions
-- Preparing for backend technical interviews
+> Estos proyectos están orientados al aprendizaje y a la mejora continua.
 
 ---
 
-## 📫 Contact
+## 🎯 En qué estoy enfocado actualmente
+
+- Mejorar habilidades de arquitectura backend
+- Escribir APIs más limpias y mantenibles
+- Profundizar conocimientos en Nest.js y soluciones en la nube
+- Prepararme para entrevistas técnicas de backend
+
+---
+
+## 📫 Contacto
 
 - 💼 LinkedIn: https://www.linkedin.com/in/diego-federico-tapia-a25986176/
 - 📧 Email: tapia.diegofederico@gmail.com
 
 ---
 
-Thanks for visiting my profile! 🙂
+¡Gracias por visitar mi perfil! 🙂
