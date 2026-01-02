@@ -44,7 +44,6 @@ Este perfil de GitHub está orientado principalmente a **proyectos personales y 
 ## 📫 Contacto
 
 - 💼 LinkedIn: https://www.linkedin.com/in/diego-federico-tapia-a25986176/
-- 📧 Email: tapia.diegofederico@gmail.com
 
 ---
 
