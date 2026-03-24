@@ -1,50 +1,45 @@
-# 👋 Hola, soy Diego
+# Diego Tapia
 
-Desarrollador Backend con experiencia en el desarrollo de APIs REST utilizando **Node.js**, **Nest.js** y **SQL**.  
-He trabajado en entornos fintech y me interesa diseñar soluciones backend limpias, escalables y bien estructuradas.
+Backend Developer with experience building REST APIs using Node.js, NestJS, and SQL. I’ve worked in fintech environments and focus on designing backend systems that are simple, scalable, and maintainable.
 
-Este perfil de GitHub está orientado principalmente a **proyectos personales y challenges**, donde practico conceptos de backend, experimento con tecnologías y fortalezco mis habilidades técnicas.
-
----
-
-## 🛠 Stack Tecnológico
-
-- **Backend:** Node.js, Nest.js, Express.js  
-- **Bases de datos:** SQL, MongoDB  
-- **Cloud y DevOps:** AWS, CI/CD  
-- **Lenguajes:** JavaScript, TypeScript  
-- **Herramientas:** Git, Postman  
-- **Metodologías:** Agile / Scrum
+This GitHub profile is mainly a collection of personal projects and coding challenges where I practice backend concepts, explore new tools, and improve my technical skills.
 
 ---
 
-## 📂 Qué vas a encontrar acá
+## Tech Stack
 
-- 🧩 **Challenges de programación**  
-  Ejercicios enfocados en lógica, estructuras de datos y fundamentos de backend.
-
-- 🚀 **Proyectos personales**  
-  Proyectos propios para practicar diseño de APIs, modelado de bases de datos y arquitecturas backend.
-
-- 🧪 **Pruebas y aprendizaje**  
-  Repositorios creados para experimentar con frameworks, librerías o conceptos que estoy aprendiendo.
-
+**Backend:** Node.js, NestJS, Express.js  
+**Databases:** SQL, MongoDB  
+**Cloud & DevOps:** AWS, CI/CD  
+**Languages:** JavaScript, TypeScript  
+**Tools:** Git, Postman  
+**Methodologies:** Agile / Scrum  
 
 ---
 
-## 🎯 En qué estoy enfocado actualmente
+## What you'll find here
 
-- Mejorar habilidades de arquitectura backend
-- Escribir APIs más limpias y mantenibles
-- Profundizar conocimientos en Nest.js y soluciones en la nube
-- Prepararme para entrevistas técnicas de backend
+**Coding Challenges**  
+Exercises focused on problem solving, data structures, and backend fundamentals.
 
----
+**Personal Projects**  
+Projects where I work on API design, database modeling, and backend architecture.
 
-## 📫 Contacto
-
-- 💼 LinkedIn: https://www.linkedin.com/in/diego-federico-tapia-a25986176/
+**Experiments**  
+Repositories used to test frameworks, libraries, and new concepts.
 
 ---
 
-¡Gracias por visitar mi perfil! 🙂
+## Current Focus
+
+- Improving backend architecture skills  
+- Writing cleaner and more maintainable APIs  
+- Deepening knowledge of NestJS and cloud solutions  
+- Preparing for backend technical interviews  
+
+---
+
+## Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/diego-federico-tapia-a25986176/
