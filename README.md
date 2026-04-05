@@ -1,8 +1,16 @@
-# Diego Tapia
+# Hi, I'm Diego Tapia
 
-Backend Developer with experience building scalable APIs and services using Node.js and Python. I’ve worked in fintech environments and focus on clean architecture, performance, and maintainability.
+**Backend Developer** | Node.js | Python | AI Integration
 
-Recently, I’ve been working on integrating AI into backend systems, building services that leverage large language models for automation, data processing, and smarter workflows.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-federico-tapia-a25986176/)
+
+---
+
+## About Me
+
+Backend Developer with experience building scalable APIs and services using Node.js and Python. I've worked in fintech environments and focus on clean architecture, performance, and maintainability.
+
+Recently, I've been working on integrating AI into backend systems, building services that leverage large language models for automation, data processing, and smarter workflows.
 
 ---
 
@@ -13,7 +21,6 @@ Recently, I’ve been working on integrating AI into backend systems, building s
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
@@ -24,43 +31,44 @@ Recently, I’ve been working on integrating AI into backend systems, building s
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00)
 
 ### AI & Automation
-![OpenAI](https://img.shields.io/badge/LLMs-Integration-412991)
-![API](https://img.shields.io/badge/AI-Powered_APIs-5A67D8)
-![Automation](https://img.shields.io/badge/Workflow-Automation-2B6CB0)
-![RAG](https://img.shields.io/badge/RAG-Systems-0EA5E9)
+![LLMs](https://img.shields.io/badge/LLMs_Integration-412991)
+![AI APIs](https://img.shields.io/badge/AI--Powered_APIs-5A67D8)
+![Automation](https://img.shields.io/badge/Workflow_Automation-2B6CB0)
+![RAG](https://img.shields.io/badge/RAG_Systems-0EA5E9)
 
 ---
 
-## What you'll find here
+## What You'll Find Here
 
-**Coding Challenges**  
-Problem-solving exercises focused on backend fundamentals and system design.
-
-**Personal Projects**  
-APIs, microservices, and backend systems with real-world use cases.
-
-**AI Projects**  
-AI-powered APIs, document processing systems, and automation tools.
-
-**Experiments**  
-Testing frameworks, tools, and architectural approaches.
+| Category | Description |
+|---|---|
+| Coding Challenges | Problem-solving exercises focused on backend fundamentals and system design |
+| Personal Projects | APIs, microservices, and backend systems with real-world use cases |
+| AI Projects | AI-powered APIs, document processing systems, and automation tools |
+| Experiments | Testing frameworks, tools, and architectural approaches |
 
 ---
 
 ## Current Focus
 
-- Backend architecture and system design  
-- Building scalable APIs and services  
-- AI-powered backend solutions (LLMs, RAG, automation)  
-- Cloud-based systems using AWS  
+- Backend architecture and system design
+- Building scalable APIs and services
+- AI-powered backend solutions (LLMs, RAG, automation)
+- Cloud-based systems using AWS
 
 ---
 
-## Contact
+## GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/in/diego-federico-tapia-a25986176/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-DiegoF&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/T-DiegoF)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-DiegoF&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/T-DiegoF)
+
+---
+
+Open to collaborating on backend and AI projects. Let's build something great!
