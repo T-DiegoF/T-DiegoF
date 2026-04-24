@@ -20,10 +20,7 @@ Recently, I've been working on integrating AI into backend systems, building ser
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ### Frontend
@@ -35,11 +32,6 @@ Recently, I've been working on integrating AI into backend systems, building ser
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00)
 
-### AI & Automation
-![LLMs](https://img.shields.io/badge/LLMs_Integration-412991)
-![AI APIs](https://img.shields.io/badge/AI--Powered_APIs-5A67D8)
-![Automation](https://img.shields.io/badge/Workflow_Automation-2B6CB0)
-![RAG](https://img.shields.io/badge/RAG_Systems-0EA5E9)
 
 ---
 
