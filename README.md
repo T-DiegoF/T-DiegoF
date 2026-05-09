@@ -41,7 +41,6 @@ Recently, I've been working on integrating AI into backend systems, building ser
 |---|---|
 | Coding Challenges | Problem-solving exercises focused on backend fundamentals and system design |
 | Personal Projects | APIs, microservices, and backend systems with real-world use cases |
-| AI Projects | AI-powered APIs, document processing systems, and automation tools |
 | Experiments | Testing frameworks, tools, and architectural approaches |
 
 ---
@@ -50,7 +49,6 @@ Recently, I've been working on integrating AI into backend systems, building ser
 
 - Backend architecture and system design
 - Building scalable APIs and services
-- AI-powered backend solutions (LLMs, RAG, automation)
 - Cloud-based systems using AWS
 
 ---
