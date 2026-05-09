@@ -54,13 +54,3 @@ Recently, I've been working on integrating AI into backend systems, building ser
 - Cloud-based systems using AWS
 
 ---
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-DiegoF&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/T-DiegoF)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-DiegoF&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/T-DiegoF)
-
----
-
-Open to collaborating on backend and AI projects. Let's build something great!
