@@ -1,4 +1,4 @@
-**Backend Developer** | Node.js | Python
+**Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-federico-tapia-a25986176/)
 
@@ -37,14 +37,4 @@ Recently, I've been working on integrating AI into backend systems, building ser
 |---|---|
 | Coding Challenges | Problem-solving exercises focused on backend fundamentals and system design |
 | Personal Projects | APIs, microservices, and backend systems with real-world use cases |
-| Experiments | Testing frameworks, tools, and architectural approaches |
-
----
-
-## Current Focus
-
-- Backend architecture and system design
-- Building scalable APIs and services
-- Cloud-based systems using AWS
-
----
+| Experiments | Testing frameworks, tools, and architectural approaches
