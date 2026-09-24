@@ -6,7 +6,7 @@
 
 ## About Me
 
-I currently work at a consulting firm serving La Segunda, an Argentine insurance company. My role focuses on migrating micro frontends from Angular 14 to Angular 19 and modernizing the backend from Node-Express to Node.js with NestJS 11, leveraging AI tools such as Claude Code.
+I currently work at a consulting firm serving La Segunda, an Argentine insurance company. My role focuses on migrating micro frontends from Angular 14 to Angular 20+ and modernizing the backend from Node-Express to Node.js with NestJS 11, leveraging AI tools such as Claude Code.
 
 ---
 
